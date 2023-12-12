@@ -74,7 +74,7 @@ h1 {
     font-weight: 700;
 }
 
-h2 {
+.question span {
     color: var(--dark-purple);
     font-weight: 600;
     font-size: 16px;
@@ -105,7 +105,7 @@ p {
     padding: 1.5rem 0;
 }
 
-.question:hover h2 {
+.question:hover span {
     cursor: pointer;
     color: var(--grayish-purple);
     color: hsl(281, 83%, 54%);
