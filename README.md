@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshots/dektop.png)
-![Desktop with hover state](./screenshots/dektop-hover.png)
+![Desktop](./screenshots/desktop.png)
+![Desktop with hover state](./screenshots/desktop-hover.png)
 ![Mobile](./screenshots/mobile.png)
 
 ## Built with
